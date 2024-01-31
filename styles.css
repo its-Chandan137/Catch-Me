@@ -1,0 +1,16 @@
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#bb1{
+    background-color: black;
+    color: #dadada;
+    cursor: pointer;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    transform: scale(1);
+    transition: 0.3s ease;
+}
